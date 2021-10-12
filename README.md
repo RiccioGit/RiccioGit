@@ -1,3 +1,5 @@
+<img src="header.png" alt="RiccioGit Header">
+
 ### Hi, I'm Roberto 👋:it:
 
 Passionate software developer with a particular focus on Healthcare technologies. <hr>
