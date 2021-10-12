@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hi, I'm Roberto 👋:it:
 
+Passionate software developer with a particular focus on Healthcare technologies. <hr>
+
+- 🔭 I’m currently working on Angular2, Typescript & Javascript <br>
+      (I'm 70% front-end developer 😄)
+      <br>
+- 🌱 I’m currently learning Java & MongoDB <br>
+      (I would like to improve in back-end development 🤔)
+      <br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/riccioliroberto/">Linkedin Profile</a>.
+      
+     
+ 
 <!--
 **RiccioGit/RiccioGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
